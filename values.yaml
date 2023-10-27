@@ -1,0 +1,12 @@
+shiny:
+  image:
+    repository: anaeldelorme/suivicollecteesea
+    tag: latest
+    pullPolicy: Always
+  ingress:
+    enabled: true
+    hostname: collecteesea.lab.sspcloud.fr
+  s3:
+    enabled: true
+    existingSecret: suivicollecteesea-s3
+  resources: {}
