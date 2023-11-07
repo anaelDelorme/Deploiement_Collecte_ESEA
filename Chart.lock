@@ -1,0 +1,6 @@
+dependencies:
+- name: shiny
+  repository: https://inseefrlab.github.io/helm-charts
+  version: 1.0.0
+digest: sha256:dd463a613361206bdba0221e965deca423995b894022c22f0e4e193353aed43d
+generated: "2023-10-31T12:35:05.841385656Z"
