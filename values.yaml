@@ -1,7 +1,7 @@
 shiny:
   image:
     repository: anaeldelorme/suivicollecteesea
-    tag: v1.4.3
+    tag: v2.3.5
     pullPolicy: Always
   ingress:
     enabled: true
